@@ -1,0 +1,12 @@
+stm32f0xx_it.c:119:6:timer	24	static
+stm32f0xx_it.c:131:6:timer_togger	24	static
+stm32f0xx_it.c:150:6:counter	24	static
+stm32f0xx_it.c:186:6:NMI_Handler	8	static
+stm32f0xx_it.c:199:6:HardFault_Handler	8	static
+stm32f0xx_it.c:214:6:SVC_Handler	8	static
+stm32f0xx_it.c:227:6:PendSV_Handler	8	static
+stm32f0xx_it.c:240:6:SysTick_Handler	8	static
+stm32f0xx_it.c:261:6:RCC_IRQHandler	8	static
+stm32f0xx_it.c:274:6:EXTI0_1_IRQHandler	24	static
+stm32f0xx_it.c:297:6:TIM3_IRQHandler	24	static
+stm32f0xx_it.c:314:6:TIM14_IRQHandler	24	static
